@@ -1,6 +1,5 @@
----
-TalulaT:  Chronicles of tandem miles
----
+# TalulaT
+Chronicles of tandem miles
 
-![image](./blog/mc_gc.jpg)
+<img src="./blog/mc_gc.jpg" width=200>
 

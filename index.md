@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: TalulaT - Chronicles of tandem miles
 ---
+
+![image](./blog/mc_gc.jpg)
 

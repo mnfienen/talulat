@@ -1,7 +1,6 @@
 ---
 title: "Hola cruel world"
 date: 2023-07-13
-author: Mike
 ---
 # We are going for a ride! 
 

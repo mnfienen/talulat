@@ -1,5 +1,6 @@
+# Oh, Canada!
 
-Oh, Canada!
+<img src="./assets/images/letsgo.JPG" width=400>
 
 The Grand Canyon rafting was over a year ago. Time to get back out into the world!
 

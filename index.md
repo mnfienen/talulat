@@ -1,4 +1,4 @@
-# Oh, Canada!
+# Oh, Canada
 
 <img src="./assets/images/letsgo.JPG" width=400>
 

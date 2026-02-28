@@ -1,0 +1,13 @@
+.topics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+}
+.topic-card {
+  display: block;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  text-decoration: none;
+}
+.topic-card h2 { margin: 0 0 .25rem; }

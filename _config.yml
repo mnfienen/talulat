@@ -2,3 +2,9 @@ theme: minima
 title: TalulaT - a biking blog
 author: Mike and Chandra
 description: chronicles of tandem miles
+url: "https://mnfienen.github.io"   # your user/site root
+baseurl: "/talulat"                 # project subpath
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate

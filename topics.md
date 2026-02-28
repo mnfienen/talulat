@@ -10,7 +10,8 @@ permalink: /topics/
     {% assign name = cat | first %}
     {% assign posts = cat | last %}
     <li>
-      <a href="{{ '/topics/' | append: name | slugosts)
+      {{ 
+        {{ name }} ({{ posts | size }} posts)
       </a>
     </li>
   {% endfor %}

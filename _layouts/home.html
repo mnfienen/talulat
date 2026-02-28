@@ -17,9 +17,11 @@ layout: default
       {% assign name     = cat | first %}
       {% assign posts    = cat | last %}
       {% assign lastpost = posts | first %}
+      {% assign slug     = name | slugify %}
 
       <a class="topic-card"
-         href="{{ '/topics/' | append: name | slugify |   {% if lastpost %}
+         href="{{ '/topics/' | append: slugts</p>
+        {% if lastpost %}
           <span class="lastdate">
             Updated {{ lastpost.date | date: "%b %-d, %Y" }}
           </span>

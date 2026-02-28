@@ -1,4 +1,3 @@
-
 ---
 layout: home
 title: TalulaT — a biking blog

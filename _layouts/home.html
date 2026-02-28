@@ -1,4 +1,3 @@
-
 ---
 layout: default
 ---
@@ -9,8 +8,8 @@ layout: default
 
   <div class="topics-grid">
     {% assign sorted = site.categories | sort %}
+
     {% if sorted.size == 0 %}
-      <!-- No categories found; ensure posts have 'categories:' in front matter -->
       <p>No topics yet. Add categories to your posts’ front matter.</p>
     {% endif %}
 
@@ -20,7 +19,8 @@ layout: default
       {% assign lastpost = posts | first %}
 
       <a class="topic-card"
-         href="{{ '/topics/' | append: name | slugify | append: '/' | relative_url    <span class="lastdate">
+         href="{{ '/topics/' | append: name | slugify |   {% if lastpost %}
+          <span class="lastdate">
             Updated {{ lastpost.date | date: "%b %-d, %Y" }}
           </span>
         {% endif %}

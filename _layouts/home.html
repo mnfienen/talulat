@@ -4,7 +4,7 @@ layout: base
 
 <div class="home">
   <h1>TalulaT — chronicles of tandem miles</h1>
-  <p>Choose your own adventure!.</p>
+  <p>Choose your own adventure!</p>
 
   <div class="topics-grid">
     {% assign sorted = site.categories | sort %}
@@ -12,8 +12,13 @@ layout: base
       {% assign name = cat | first %}
       {% assign posts = cat | last %}
       {% assign lastpost = posts | first %}
-      <a class="topic-card" href="{{ '/topics/' | append: | size }} posts</p>
-        <span class="lastdate">Updated {{ lastpost.date | date: "%b %-d, %Y" }}</span>
+
+      {{ 
+        <h2>{{ name }}</h2>
+        <p>{{ posts | size }} posts</p>
+        <span class="lastdate">
+          Updated {{ lastpost.date | date: "%b %-d, %Y" }}
+        </span>
       </a>
     {% endfor %}
   </div>

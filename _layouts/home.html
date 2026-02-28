@@ -1,5 +1,6 @@
+
 ---
-layout: base
+layout: default
 ---
 
 <div class="home">
@@ -8,17 +9,21 @@ layout: base
 
   <div class="topics-grid">
     {% assign sorted = site.categories | sort %}
+    {% if sorted.size == 0 %}
+      <!-- No categories found; ensure posts have 'categories:' in front matter -->
+      <p>No topics yet. Add categories to your posts’ front matter.</p>
+    {% endif %}
+
     {% for cat in sorted %}
-      {% assign name = cat | first %}
-      {% assign posts = cat | last %}
+      {% assign name     = cat | first %}
+      {% assign posts    = cat | last %}
       {% assign lastpost = posts | first %}
 
-      {{ 
-        <h2>{{ name }}</h2>
-        <p>{{ posts | size }} posts</p>
-        <span class="lastdate">
-          Updated {{ lastpost.date | date: "%b %-d, %Y" }}
-        </span>
+      <a class="topic-card"
+         href="{{ '/topics/' | append: name | slugify | append: '/' | relative_url    <span class="lastdate">
+            Updated {{ lastpost.date | date: "%b %-d, %Y" }}
+          </span>
+        {% endif %}
       </a>
     {% endfor %}
   </div>

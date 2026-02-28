@@ -11,3 +11,15 @@ plugins:
 
 sass:
   sass_dir: assets
+
+collections:
+  topics:
+    output: true
+    permalink: /topics/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: topics
+    values:
+      layout: topic    # we'll create this layout below

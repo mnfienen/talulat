@@ -1,8 +1,14 @@
+---
+---
+
+@import "minima";
+
 .topics-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 1rem;
 }
+
 .topic-card {
   display: block;
   border: 1px solid #ddd;
@@ -10,4 +16,12 @@
   padding: 1rem;
   text-decoration: none;
 }
-.topic-card h2 { margin: 0 0 .25rem; }
+
+.topic-card h2 {
+  margin: 0 0 0.25rem;
+}
+
+.topic-card .lastdate {
+  color: #777;
+  font-size: 0.9rem;
+}

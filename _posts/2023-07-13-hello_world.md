@@ -2,6 +2,7 @@
 title: "Hola cruel world"
 date: 2023-07-13
 author: Mike
+categories: ["Halifax2023"]
 ---
 # We are going for a ride! 
 miles today: 0 total miles: 0  

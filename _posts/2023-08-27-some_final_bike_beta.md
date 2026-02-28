@@ -2,6 +2,7 @@
 title: "Bike beta for Americans touring in Canada"
 date: 2023-08-28
 author: Mike and Chandra
+categories: ["Gear & Beta"]
 ---
 # Some bike beta.
 

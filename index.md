@@ -1,3 +1,10 @@
+
+---
+layout: home
+title: TalulaT — a biking blog
+---
+
+
 Oh, Canada
 
 <img src="./assets/images/letsgo.JPG" width=400>

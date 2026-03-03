@@ -1,11 +1,8 @@
-Oh, Canada
+Back to Japan! 日本に帰ります！
 
-<img src="./assets/images/letsgo.JPG" width=400>
+<img src="./assets/images/mc-8.jpg" width=400>
 
-The Grand Canyon rafting was over a year ago. Time to get back out into the world!
 
-<img src="./assets/images/mc_gc.jpg" width=400>
+It's time for a return to Japan. Connecting Kunitachi to Obihiro - through the northeast exploring some places new to us. Enjoy the ride with us!
 
-So....it's north and east, through Canada. 1,500 miles from Sarnia, Ontario, over 25 days, to the sea and Halifax, nova Scotia! 
-
-<img src="assets/images/theroute.png" width=400>
+<img src="./assets/images/日本.png" width=400>

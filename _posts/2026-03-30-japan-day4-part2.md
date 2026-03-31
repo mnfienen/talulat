@@ -1,5 +1,5 @@
 ---
-title: "Day 4: 角田市, 宮城 - 女川町, 宮城 Kakuda, Miyagi to Onagawa, Miyagi"
+title: "Day 4 part 2: 角田市, 宮城 - 女川町, 宮城 Kakuda, Miyagi to Onagawa, Miyagi"
 date: 2026-03-30
 author: Chandra
 ---
@@ -20,7 +20,7 @@ We then stopped at Shiogama Shrine, a 9th century shrine (with a lot of stairs t
 
 Here are a few photos:
 
-<img src="../../../assets/images/jday4/up.jpg" width=450>  
+<img src="../../../assets/images/jday4/up.jpeg" width=450>  
 
 <img src="../../../assets/images/jday4/jinja.jpg" width=450>  
 
@@ -36,7 +36,7 @@ Here are a few photos:
 
 From Shiogama, we biked through some mountains; this time we had a funky old bike-only tunnel through one of the hills.
 
-<video src="../../../assets/images/jday4/biketunnel.mov" controls="controls" style="max-width: 450px;">
+<video src="../../../assets/images/jday4/biketunnel.MOV" controls="controls" style="max-width: 450px;">
 </video>
 
 We then passed through Matsushima where a series of famous islands are considered one of three famous Japanese views.  They are beautiful, but we were unable to get an appropriate photo because we ended up on the land side of the road, rather than on the coastal side path.  This was the best that I could do by standing on the guard rail next to the road.

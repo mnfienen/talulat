@@ -28,8 +28,6 @@ Here are a few photos:
 
 <img src="../../../assets/images/jday4/tree.jpg" width=450>  
 
-<img src="../../../assets/images/jday4/trees.jpg" width=450>  
-
 <img src="../../../assets/images/jday4/stairtop.jpg" width=450>  
 
 <img src="../../../assets/images/jday4/down.jpg" width=450>  

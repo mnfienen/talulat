@@ -3,7 +3,6 @@ title: "Day 4 part 2: Stoker Post about things other than the disaster & guardia
 date: 2026-03-30
 author: Chandra
 ---
-# Day four part 2 - Stoker Post about things other than the disaster & guardian angels 角田市, 宮城 - 女川町, 宮城 Kakuda, Miyagi to Onagawa, Miyagi
 
 miles today: 51      total miles: 265
 km today: 82         total km: 417

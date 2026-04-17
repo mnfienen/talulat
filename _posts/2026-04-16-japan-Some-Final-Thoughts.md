@@ -12,9 +12,6 @@ So, I wanted to share a few thoughts and post a bit of how we spent our post-bik
 
 ### Obihiro and Otaru  
 
-<img src="../../../assets/images/japan_final/lastdayvibes.jpg" width=450>  
-
-
 Namika, her husband Hiro, and their two-year-old Haru were incredible hosts! We had shipped the bike box to their apartment and so were able to dismantle and pack the bike the same afternoon we arrived. It's always a bit jarring to switch from all the efforts to keep the bike rolling in one piece (especially after the mechanicals we faced on this trip!) to pulling everything apart and stuffing it into a box and a suitcase. It was super windy as well, but we went from biking to packed in a couple hours and then enjoyed an amazing meal at the apartment. 
 
 Namika made lasagna with fish, miso and cheese - the combination of miso and cheese surprised me with how delicious and natural the pairing is! And Hiro went all out, reimagining the traditional Italian "beccafico" (fresh sardines in a breaded pouch) using more local ingredients - he called it "sabafico" since he replaced the sardines with Japanese cured mackeral (shime saba). He also adapted the filling using walnuts rather than pinenuts, but still with raisins. Instead of breading, he stuffed these into aburage (fried tofu skin). It was amazing! Innovative and delicious. For young Haru, though, I think the star of the show was a crab brought by another guest (a konbu farmer and fisherman), Hoshi-san, who had caught it earlier in the day.

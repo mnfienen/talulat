@@ -2,6 +2,7 @@
 title: "Thinking back on Japan 帯広市, 北海 Obihiro, Hokkaido and Flying home"
 date: 2026-04-16
 author: Mike
+categories: japan
 ---
 total miles: 954 (+ 48 if you count our Fuji ride!) = 1,002    
 total km: 1523 (+77 for Fuji!) = 1,600

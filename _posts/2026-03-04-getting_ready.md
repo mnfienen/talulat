@@ -2,6 +2,7 @@
 title: "Day -13 (or -24) - Getting ready to get back to Japan!"
 date: 2026-03-04
 author: Mike
+categories: japan
 ---
 # Day -13 or -24 - Getting ready to get back to Japan!
 

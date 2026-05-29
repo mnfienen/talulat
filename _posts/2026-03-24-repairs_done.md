@@ -2,6 +2,7 @@
 title: "Handlebars good as new-ish."
 date: 2026-03-24
 author: Mike
+categories: japan
 ---
 # Back in Kunitachi with repairs and Sakura
 

@@ -2,3 +2,12 @@ theme: minima
 title: TalulaT - a biking blog
 author: Mike and Chandra
 description: chronicles of tandem miles
+
+# Preserve existing post URLs when categories are added
+permalink: /:year/:month/:day/:title:output_ext
+
+# Control navigation header links
+header_pages:
+  - index.md
+  - canada/index.md
+  - japan/index.md

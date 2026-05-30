@@ -10,5 +10,5 @@ permalink: /
 
 ## Trip Threads
 
-- [Canada 2023 🇨🇦]({{ site.baseurl }}/canada/) - Biking across Canada
-- [Japan 2026 🇯🇵]({{ site.baseurl }}/japan/) - Biking across Japan
+- [Canada 2023 🇨🇦]({{ site.baseurl }}/canada/) - Out the St. Lawrence and Great Lakes
+- [Japan 2026 🇯🇵]({{ site.baseurl }}/japan/) - Kunitachi to Obihiro

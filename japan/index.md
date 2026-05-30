@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Japan Trip
+title: 🇯🇵 Japan 2026 🇯🇵
 permalink: /japan/
 ---
 

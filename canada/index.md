@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Canada Trip
+title: 🇨🇦 Canada 2023 🇨🇦
 permalink: /canada/
 ---
 

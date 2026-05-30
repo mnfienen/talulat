@@ -9,9 +9,9 @@ permalink: /
 
 {{ site.description }}
 
-Join Mike and Chandra on tandem adventures aroudn the world.
+Join Mike and Chandra on tandem adventures around the world.
 
-<img src="../assets/images/letsgo.JPG" width=400>
+<img src="./assets/images/letsgo.JPG" width=400>
 
 ## Trip Threads
 
